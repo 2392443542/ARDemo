@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>vid</key>
+		<string>1</string>
+		<key>fileName</key>
+		<string>https://www.apple.com/105/media/cn/ipad/2018/08716702_0a2f_4b2c_9fdd_e08394ae72f1/films/use-two-apps/ipad-use-two-apps-tpl-cn-20180404_1280x720h.mp4</string>
+		<key>url</key>
+		<string>https://www.apple.com/105/media/cn/ipad/2018/08716702_0a2f_4b2c_9fdd_e08394ae72f1/films/use-two-apps/ipad-use-two-apps-tpl-cn-20180404_1280x720h.mp4</string>
+	</dict>
+	<dict>
+		<key>vid</key>
+		<string>3</string>
+		<key>fileName</key>
+		<string>https://www.apple.com/105/media/cn/ipad-pro/how-to/2017/a0f629be_c30b_4333_942f_13a221fc44f3/films/dock/ipad-pro-dock-cn-20160907_1280x720h.mp4</string>
+		<key>url</key>
+		<string>https://www.apple.com/105/media/cn/ipad-pro/how-to/2017/a0f629be_c30b_4333_942f_13a221fc44f3/films/dock/ipad-pro-dock-cn-20160907_1280x720h.mp4</string>
+	</dict>
+	<dict>
+		<key>vid</key>
+		<string>4</string>
+		<key>fileName</key>
+		<string>https://www.apple.com/105/media/cn/iphone-x/2017/01df5b43-28e4-4848-bf20-490c34a926a7/films/feature/iphone-x-feature-cn-20170912_1280x720h.mp4</string>
+		<key>url</key>
+		<string>https://www.apple.com/105/media/cn/iphone-x/2017/01df5b43-28e4-4848-bf20-490c34a926a7/films/feature/iphone-x-feature-cn-20170912_1280x720h.mp4</string>
+	</dict>
+	<dict>
+		<key>vid</key>
+		<string>5</string>
+		<key>fileName</key>
+		<string>https://www.apple.com/105/media/us/imac-pro/2018/d0b63f9b_f0de_4dea_a993_62b4cb35ca96/hero/large.mp4</string>
+		<key>url</key>
+		<string>https://www.apple.com/105/media/us/imac-pro/2018/d0b63f9b_f0de_4dea_a993_62b4cb35ca96/hero/large.mp4</string>
+	</dict>
+</array>
+</plist>
